@@ -7,14 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		221106662375A36D004E34E9 /* 120 - iPhone-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 221106642375A36D004E34E9 /* 120 - iPhone-1.png */; };
+		221106672375A36D004E34E9 /* 180 - iPhone 6 Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 221106652375A36D004E34E9 /* 180 - iPhone 6 Plus.png */; };
+		2211066A2375A484004E34E9 /* pad2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 221106682375A484004E34E9 /* pad2x.png */; };
+		2211066B2375A484004E34E9 /* pad1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 221106692375A484004E34E9 /* pad1x.png */; };
 		222821742244DEBC0000FA92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222821732244DEBC0000FA92 /* AppDelegate.swift */; };
 		222821762244DEBC0000FA92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222821752244DEBC0000FA92 /* ViewController.swift */; };
 		222821792244DEBC0000FA92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222821772244DEBC0000FA92 /* Main.storyboard */; };
 		2228217B2244DEBE0000FA92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2228217A2244DEBE0000FA92 /* Assets.xcassets */; };
-		2228217E2244DEBE0000FA92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2228217C2244DEBE0000FA92 /* LaunchScreen.storyboard */; };
 		222821892244DEBE0000FA92 /* haulerLocInjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222821882244DEBE0000FA92 /* haulerLocInjectTests.swift */; };
 		222821942244DEBE0000FA92 /* haulerLocInjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222821932244DEBE0000FA92 /* haulerLocInjectUITests.swift */; };
-		222821A32244EF610000FA92 /* apkgta5com-franklin.png in Resources */ = {isa = PBXBuildFile; fileRef = 222821A22244EF610000FA92 /* apkgta5com-franklin.png */; };
+		2228B7DD237564A5000D11D2 /* Instructions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2228B7DC237564A5000D11D2 /* Instructions.swift */; };
+		222996222373189C00A4B2AB /* LOGO-Rubicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 222996212373189C00A4B2AB /* LOGO-Rubicon.png */; };
+		2294483E23744C55004458AB /* LOGO-Rubicon copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 2294483D23744C55004458AB /* LOGO-Rubicon copy.png */; };
+		2294484023744DAD004458AB /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2294483F23744DAD004458AB /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +41,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		221106642375A36D004E34E9 /* 120 - iPhone-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "120 - iPhone-1.png"; sourceTree = "<group>"; };
+		221106652375A36D004E34E9 /* 180 - iPhone 6 Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "180 - iPhone 6 Plus.png"; sourceTree = "<group>"; };
+		221106682375A484004E34E9 /* pad2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pad2x.png; sourceTree = "<group>"; };
+		221106692375A484004E34E9 /* pad1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pad1x.png; sourceTree = "<group>"; };
 		2213FBCC225E1E710003CD80 /* frontRecTu1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = frontRecTu1.gpx; sourceTree = "<group>"; };
 		221EE3BD225B659700ED752D /* 34_2_m_qa.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = 34_2_m_qa.gpx; sourceTree = "<group>"; };
 		22259879224E544C00D46DE4 /* R2t2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = R2t2.gpx; sourceTree = "<group>"; };
@@ -43,7 +53,6 @@
 		222821752244DEBC0000FA92 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		222821782244DEBC0000FA92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2228217A2244DEBE0000FA92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		2228217D2244DEBE0000FA92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2228217F2244DEBE0000FA92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		222821842244DEBE0000FA92 /* haulerLocInjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = haulerLocInjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		222821882244DEBE0000FA92 /* haulerLocInjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = haulerLocInjectTests.swift; sourceTree = "<group>"; };
@@ -52,12 +61,18 @@
 		222821932244DEBE0000FA92 /* haulerLocInjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = haulerLocInjectUITests.swift; sourceTree = "<group>"; };
 		222821952244DEBE0000FA92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		222821A12244E8DB0000FA92 /* MirceaZaciu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = MirceaZaciu.gpx; sourceTree = "<group>"; };
-		222821A22244EF610000FA92 /* apkgta5com-franklin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "apkgta5com-franklin.png"; sourceTree = "<group>"; };
+		2228B7DC237564A5000D11D2 /* Instructions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instructions.swift; sourceTree = "<group>"; };
+		222996212373189C00A4B2AB /* LOGO-Rubicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO-Rubicon.png"; sourceTree = "<group>"; };
+		2245E7AD231579CD002608C3 /* Buna_ziua.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Buna_ziua.gpx; sourceTree = "<group>"; };
+		2245E7AE23157A83002608C3 /* resiBunaZiua.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = resiBunaZiua.gpx; sourceTree = "<group>"; };
 		225B138222521EFE00C4AA35 /* heltai.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = heltai.gpx; sourceTree = "<group>"; };
+		225C6492232BB9D300C6D047 /* Disposalprox1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Disposalprox1.gpx; sourceTree = "<group>"; };
+		2294483D23744C55004458AB /* LOGO-Rubicon copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO-Rubicon copy.png"; sourceTree = "<group>"; };
+		2294483F23744DAD004458AB /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		22A08CCA2265DF9B00BC1764 /* Parang.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Parang.gpx; sourceTree = "<group>"; };
 		22BC77C22260E7360032D033 /* Orlandowastepaper4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Orlandowastepaper4.gpx; sourceTree = "<group>"; };
-		22CFBD56224A2497005B7689 /* Rl1m.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Rl1m.gpx; sourceTree = "<group>"; };
-		22CFBD57224A4131005B7689 /* Tenesse.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Tenesse.gpx; sourceTree = "<group>"; };
+		22E6A39822DF3DE000D414B1 /* heltai.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = heltai.gpx; path = GPX/heltai.gpx; sourceTree = "<group>"; };
+		22EA47CC22DDE72A00BFF675 /* MirceaZaciu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = MirceaZaciu.gpx; path = GPX/MirceaZaciu.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,14 +103,17 @@
 		222821672244DEBC0000FA92 = {
 			isa = PBXGroup;
 			children = (
+				225C6492232BB9D300C6D047 /* Disposalprox1.gpx */,
+				2245E7AE23157A83002608C3 /* resiBunaZiua.gpx */,
+				2245E7AD231579CD002608C3 /* Buna_ziua.gpx */,
+				22E6A39822DF3DE000D414B1 /* heltai.gpx */,
+				22EA47CC22DDE72A00BFF675 /* MirceaZaciu.gpx */,
 				22A08CCA2265DF9B00BC1764 /* Parang.gpx */,
 				22BC77C22260E7360032D033 /* Orlandowastepaper4.gpx */,
 				2213FBCC225E1E710003CD80 /* frontRecTu1.gpx */,
 				221EE3BD225B659700ED752D /* 34_2_m_qa.gpx */,
 				225B138222521EFE00C4AA35 /* heltai.gpx */,
 				22259879224E544C00D46DE4 /* R2t2.gpx */,
-				22CFBD57224A4131005B7689 /* Tenesse.gpx */,
-				22CFBD56224A2497005B7689 /* Rl1m.gpx */,
 				222821A12244E8DB0000FA92 /* MirceaZaciu.gpx */,
 				222821722244DEBC0000FA92 /* haulerLocInject */,
 				222821872244DEBE0000FA92 /* haulerLocInjectTests */,
@@ -119,9 +137,11 @@
 			children = (
 				222821732244DEBC0000FA92 /* AppDelegate.swift */,
 				222821752244DEBC0000FA92 /* ViewController.swift */,
+				2228B7DC237564A5000D11D2 /* Instructions.swift */,
 				222821772244DEBC0000FA92 /* Main.storyboard */,
 				2228217A2244DEBE0000FA92 /* Assets.xcassets */,
-				2228217C2244DEBE0000FA92 /* LaunchScreen.storyboard */,
+				2294483F23744DAD004458AB /* Launch Screen.storyboard */,
+				2294484123745874004458AB /* Images */,
 				2228217F2244DEBE0000FA92 /* Info.plist */,
 			);
 			path = haulerLocInject;
@@ -141,9 +161,21 @@
 			children = (
 				222821932244DEBE0000FA92 /* haulerLocInjectUITests.swift */,
 				222821952244DEBE0000FA92 /* Info.plist */,
-				222821A22244EF610000FA92 /* apkgta5com-franklin.png */,
 			);
 			path = haulerLocInjectUITests;
+			sourceTree = "<group>";
+		};
+		2294484123745874004458AB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				221106692375A484004E34E9 /* pad1x.png */,
+				221106682375A484004E34E9 /* pad2x.png */,
+				222996212373189C00A4B2AB /* LOGO-Rubicon.png */,
+				221106642375A36D004E34E9 /* 120 - iPhone-1.png */,
+				221106652375A36D004E34E9 /* 180 - iPhone 6 Plus.png */,
+				2294483D23744C55004458AB /* LOGO-Rubicon copy.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,10 +290,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				222821A32244EF610000FA92 /* apkgta5com-franklin.png in Resources */,
-				2228217E2244DEBE0000FA92 /* LaunchScreen.storyboard in Resources */,
+				221106662375A36D004E34E9 /* 120 - iPhone-1.png in Resources */,
 				2228217B2244DEBE0000FA92 /* Assets.xcassets in Resources */,
+				222996222373189C00A4B2AB /* LOGO-Rubicon.png in Resources */,
+				2211066A2375A484004E34E9 /* pad2x.png in Resources */,
+				2294483E23744C55004458AB /* LOGO-Rubicon copy.png in Resources */,
+				2211066B2375A484004E34E9 /* pad1x.png in Resources */,
 				222821792244DEBC0000FA92 /* Main.storyboard in Resources */,
+				221106672375A36D004E34E9 /* 180 - iPhone 6 Plus.png in Resources */,
+				2294484023744DAD004458AB /* Launch Screen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +324,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				222821762244DEBC0000FA92 /* ViewController.swift in Sources */,
+				2228B7DD237564A5000D11D2 /* Instructions.swift in Sources */,
 				222821742244DEBC0000FA92 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -329,14 +367,6 @@
 				222821782244DEBC0000FA92 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		2228217C2244DEBE0000FA92 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2228217D2244DEBE0000FA92 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
